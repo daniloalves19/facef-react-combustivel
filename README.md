@@ -4,7 +4,7 @@ Aplicativo desenvolvido como atividade da disciplina de React, da pós graduaç�
 
 Professor: Antonio Carlos (https://github.com/juninmd)
 
-Aluno: Danilo
+Aluno: Danilo Rogério
 
 # Instruções de Uso:
 
