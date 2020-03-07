@@ -3,9 +3,10 @@
 Aplicativo desenvolvido como atividade da disciplina de React, da pós graduação em desenvolvimento web da Unifacef (Franca-SP) em parceria com o Luiza Labs.
 
 Professor: Antonio Carlos (https://github.com/juninmd)
+
 Aluno: Danilo
 
-# Instrução de Uso:
+# Instruções de Uso:
 
 Na IDE Visual Studio Code é necessário ter instalado:
 
